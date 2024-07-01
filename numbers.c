@@ -15,7 +15,7 @@ int main(void)
         numbers[i] = get_int("Number: ");
     }
     int smallest = numbers[0];
-    
+    // Do (size of array -2 comparisons)
     for (int i = 1; i < n ; i++)
     {
         if (numbers[i] < smallest)
