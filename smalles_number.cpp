@@ -1,3 +1,4 @@
+// 4.1 Write a C++ program that reads a set of 10 numbers and finds and prints the smallest number.
 #include <iostream>
 using namespace std;
 int main()
